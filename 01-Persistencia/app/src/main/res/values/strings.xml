@@ -6,4 +6,8 @@
     <string name="realizar_login">Realizar Login</string>
     <string name="deslogar">Deslogar</string>
     <string name="msg_login_invalido">Usuário ou senha incorretos.</string>
+    <string name="salvar_no_arquivo">Salvar no arquivo</string>
+    <string name="ler_arquivo">ler arquivo</string>
+    <string name="msg_erro_gravar_arquivo">Erro ao gravar arquivo.</string>
+    <string name="msg_erro_recuperar_arquivo">Erro ao recuperar arquivo.</string>
 </resources>

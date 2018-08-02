@@ -10,4 +10,21 @@
         android:text="@string/deslogar"
         android:onClick="logout"/>
 
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/edtInfo" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/salvar_no_arquivo"
+        android:onClick="salvarArquivo"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/ler_arquivo"
+        android:onClick="lerArquivo"/>
+
 </LinearLayout>
