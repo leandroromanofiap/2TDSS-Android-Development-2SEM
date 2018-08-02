@@ -1,0 +1,25 @@
+  GNU nano 2.0.6              File: .gitignore
+
+
+# Created by https://www.gitignore.io/api/java,macos,androidstudio
+
+### AndroidStudio ###
+# Covers files to be ignored for android development using Android Studio.
+
+# Built application files
+*.apk
+*.ap_
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+                               [ Read 177 lines ]
+^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Page ^K Cut Text  ^C Cur Pos
+^X Exit      ^J Justify   ^W Where Is  ^V Next Page ^U UnCut Text^T To Spell

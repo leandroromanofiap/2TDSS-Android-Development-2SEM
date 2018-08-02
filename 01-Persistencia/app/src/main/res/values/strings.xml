@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">01-Persistencia</string>
+    <string name="digite_seu_usuario">Digite seu usuário</string>
+    <string name="digite_sua_senha">Digite sua senha</string>
+    <string name="manter_conectado">Manter conectado</string>
+    <string name="realizar_login">Realizar Login</string>
+    <string name="deslogar">Deslogar</string>
+    <string name="msg_login_invalido">Usuário ou senha incorretos.</string>
+</resources>
