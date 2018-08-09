@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">02-Exercicio</string>
+    <string name="configuracoes">Configurações</string>
+    <string name="exibir_splash">Exibir Splash</string>
+    <string name="tempo">Tempo:</string>
+    <string name="cor_de_fundo">Cor de Fundo</string>
+    <string name="salvar">Salvar</string>
+    <string name="config_success">Configurações alteradas com sucesso.</string>
+</resources>
