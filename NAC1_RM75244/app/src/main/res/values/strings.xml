@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NAC1_RM75244</string>
+    <string name="login">Login</string>
+    <string name="senha">Senha</string>
+    <string name="digite_sua_senha">Digite sua senha</string>
+    <string name="digite_seu_login">Digite seu login</string>
+    <string name="salvar_usuario_e_senha">Salvar usuário e senha?</string>
+    <string name="usuario_ou_senha_invalidos">Usuário e/ou senha inválidos.</string>
+    <string name="salvar">Salvar</string>
+    <string name="escolha_seu_tema_preferido">Escolha seu tema preferido:</string>
+    <string name="vermelho">Vermelho</string>
+    <string name="azul">Azul</string>
+    <string name="verde">Verde</string>
+    <string name="configuracoes_alteradas_com_sucesso">Configurações alteradas com sucesso.</string>
+</resources>
