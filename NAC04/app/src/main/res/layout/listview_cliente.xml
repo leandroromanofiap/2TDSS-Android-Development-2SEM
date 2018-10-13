@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:padding="16dp"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtNome"
+        android:textSize="16dp"
+        android:textStyle="bold"
+        tools:text="Nome do cliente" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtTelefone"
+        android:textSize="16dp"
+        tools:text="(011) 0000-0000"
+        android:layout_toRightOf="@id/txtNome"
+        android:layout_marginLeft="12dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtEmail"
+        tools:text="usuario@dominio.com.br"
+        android:layout_below="@id/txtNome"/>
+
+</RelativeLayout>
